@@ -2,7 +2,7 @@
 springmvc大整合
 
 done:
-    mybatis
+    mybatis'\n'
     junit
     表现层与前端数据传输协议
     异常处理器入门
