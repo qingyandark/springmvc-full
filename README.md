@@ -1,12 +1,12 @@
 # springmvc-full
 springmvc大整合
 
-done:
+done:<br>
     mybatis<br>
-    junit
-    表现层与前端数据传输协议
-    异常处理器入门
-    拦截器入门（包含拦截链）
+    junit<br>
+    表现层与前端数据传输协议<br>
+    异常处理器入门<br>
+    拦截器入门（包含拦截链）<br>
    
-error:
+error:<br>
     AOP，不知道为什么爆红
